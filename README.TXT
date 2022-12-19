@@ -1,1 +1,1 @@
-Merge and Bubble Sort Algorithm
+# Merge and Bubble Sort Algorithm
